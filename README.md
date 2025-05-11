@@ -1,14 +1,10 @@
 
 # 🧠 Stress Detection Using Deep Learning: WESAD Dataset and Wearable Devices
 
-## 📄 Project Overview
-
-* *Objective*: Detect stress using deep learning models based on the WESAD dataset and wearable devices (RespiBAN and Empatica E4).
-* *Model goal: Classify the data into two categories: **Normal* and *Stress*.
-
 ## 📊 Dataset Description
 
-* *Number of Participants*: 14 valid participants (out of 15, one excluded due to sensor issues).
+* *Number of Participants*: 14 valid participants (out of 15, one excluded due to sensor issues).Dataset [wesad](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection)
+
 * *Devices Used*:
 
   * **RespiBAN**: Chest-worn sensor, sampling frequency: 700 Hz.
@@ -84,7 +80,13 @@ For analysis, labels were mapped into a binary format:
 * The model was evaluated using metrics such as *accuracy, **precision, **recall, and **F1-score*.
 * The results show that the model is effective at classifying stress and normal states, even with the imbalanced dataset.
 
-## 🔚 Conclusion
+# 🧠 Authors 
+* Esraa Taha Mohamed
+* Gehad Mahmoud Ahmed
+* Nada Mamdouh Abdelomniem
+* Roaa Mohamed Abdelzaim 
+## Contact
 
-* The project demonstrates the effectiveness of deep learning models, particularly CNN architectures, for stress detection using physiological data from wearable devices.
-* The results indicate potential applications in mental health monitoring and stress management.
+For any inquiries, feel free to reach out:
+- Name: Esraa Taha Mohammed
+- Email: esraataha085@gmail.com
