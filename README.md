@@ -30,11 +30,11 @@ Here's your README in bullet-point format in *English*:
 
 ### Signals Collected from RespiBAN:
 
-* *Accelerometer (ACC)*: Measures movement and orientation.
-* *Respiration (RESP)*: Captures breathing patterns.
-* *Temperature (TEMP)*: Monitors body temperature.
-* *Impedance*: Assesses respiratory activity.
-* *Electrocardiogram (ECG)*: Records the electrical activity of the heart.
+* Accelerometer (ACC): Measures movement and orientation.
+* Respiration (RESP): Captures breathing patterns.
+* Temperature (TEMP): Monitors body temperature.
+* Impedance: Assesses respiratory activity.
+* Electrocardiogram (ECG): Records the electrical activity of the heart.
 
 ### Signals Collected from Empatica E4:
 
