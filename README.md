@@ -7,8 +7,8 @@ Here's your README in bullet-point format in *English*:
 
 ## Project Overview
 
-* *Objective*: Detect stress using deep learning models based on the WESAD dataset and wearable devices (RespiBAN and Empatica E4).
-* *Model goal: Classify the data into two categories: **Normal* and *Stress*.
+* Objective: Detect stress using deep learning models based on the WESAD dataset and wearable devices (RespiBAN and Empatica E4).
+* Model goal: Classify the data into two categories: **Normal* and *Stress*.
 
 ## Dataset Description
 
