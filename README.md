@@ -85,8 +85,4 @@ For analysis, labels were mapped into a binary format:
 * Gehad Mahmoud Ahmed
 * Nada Mamdouh Abdelomniem
 * Roaa Mohamed Abdelzaim 
-## Contact
 
-For any inquiries, feel free to reach out:
-- Name: Esraa Taha Mohammed
-- Email: esraataha085@gmail.com
