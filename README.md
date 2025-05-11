@@ -57,10 +57,10 @@ For analysis, labels were mapped into a binary format:
 
 ### 2. Data Preprocessing:
 
-## a. Creating Time-Series Windows
-## b. Data Normalization
-## c. Train-Test Split
-## d. Class Imbalance Handling using (SMOTE)
+ - Creating Time-Series Windows
+ - Data Normalization
+ - Train-Test Split
+ - Class Imbalance Handling using (SMOTE)
 
 ## ⚙ Model Architecture
 
