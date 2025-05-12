@@ -1,5 +1,5 @@
 
-# 🧠 Stress Detection Using Deep Learning: WESAD Dataset and Wearable Devices
+# 🧠 Stress Detection Using Deep Learning: WESAD Dataset and Wearable Devices (Accuracy 99%)
 
 ## 📊 Dataset Description
 
@@ -69,16 +69,16 @@ For analysis, labels were mapped into a binary format:
 
 ## 🚀 Model Compilation and Training
 
-* *Optimizer*: Adam (learning rate: 0.001)
+* *Optimizer*: Adam
 * *Loss function*: Binary cross-entropy
 * *Evaluation metric*: Accuracy
-* *Training*: 10 epochs, batch size of 32
+* *Training*: 10 epochs, batch size of 64
 * *Validation*: 10% of the data used for validation to monitor performance and detect overfitting.
 
 ## 📈 Results and Evaluation
 
 * The model was evaluated using metrics such as *accuracy, **precision, **recall, and **F1-score*.
-* The results show that the model is effective at classifying stress and normal states, even with the imbalanced dataset.
+* The results show that the model is effective at classifying stress and normal states
 
 # 🧠 Authors 
 * Esraa Taha Mohamed
